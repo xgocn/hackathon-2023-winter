@@ -50,4 +50,9 @@ differs
 XXXX
   - Role: Web3 Developer
   - Github: `xxxx`
+
+farmer
+  - Role: Web3 Developer
+  - Github: `https://github.com/xgocn`
+    
 team members update this infomation self.
